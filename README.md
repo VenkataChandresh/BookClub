@@ -36,6 +36,4 @@ Built using the **MERN stack** (MongoDB, Express.js, React.js, Node.js).
 
 ## 🎯 Future Enhancements
 
--📌 Google Books API integration for book search
--📌 Notifications for club events
--📌 Advanced analytics for reading habits
+-_📌 Google Books API integration for book search -_ -_📌 Notifications for club events-_ -_📌 Advanced analytics for reading habits-_
